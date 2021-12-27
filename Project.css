@@ -1,0 +1,1032 @@
+@media only screen and (max-width: 600px) {
+    @keyframes welcome {
+        5% {visibility: visible;
+            height: auto;
+            width: 100%;
+            height: 10%;
+            margin-bottom: 5%;
+            text-align: center;
+            font-size: 20;
+            color: whitesmoke;
+            font-family: cursive;
+            font-style: oblique;
+        }
+     50% {
+        visibility: visible;
+        height: auto;
+        width: 100%;
+        height: 10%;
+        margin-bottom: 10%;
+        color: whitesmoke;
+        text-align: center;
+        margin-top: 40%;
+        font-size: 20;
+        font-family: cursive;
+        font-style: oblique;
+     }
+     100% {
+        visibility: visible;
+        height: auto;
+        width: 100%;
+        height: 10%;
+        margin-bottom: 10%;
+        color: whitesmoke;
+        text-align: center;
+        margin-top: 40%;
+        font-size: 20;
+        font-family: cursive;
+        font-style: oblique;
+     }      
+    }    
+    @keyframes service-1 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+    }
+    @keyframes service-one {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+    }
+    @keyframes service-2 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+    }
+    @keyframes service-two {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+    }
+    @keyframes service-3 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+    }
+    @keyframes service-three {
+
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+    }
+    @keyframes service-4 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+    }
+    @keyframes service-four {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+    }
+    @keyframes service-5 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+    }
+    @keyframes service-five {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+    }
+    @keyframes service-6 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+    }
+    @keyframes service-six {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+    }
+    @keyframes service-7 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+    }
+    @keyframes service-seven {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+    }
+    @keyframes service-8 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+    }
+    @keyframes service-eight {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: inherit;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: inherit;
+        }
+    }
+    div.services-animation {
+        height: 641.5;
+    }
+    body.background {
+        background-size: 90%;
+        background-position: center;
+    }    
+    div img.my-img {
+        display: none;
+    }
+    div.jumbotron {
+        background-repeat:  repeat;
+    }
+    div.service-heading h1 {
+        padding-left: 80px!important;
+    }
+    div.content-last-aside {
+        margin-bottom: -50px;
+    }
+    div.sm-res {
+        text-align: center!important;
+    }
+    p.sm-res {
+        text-align: center!important;
+    }
+    div.last-row-sm {
+        margin-left: 20px;
+    }
+div.sm {
+    border-bottom: 1px solid white;
+    padding-top: 20px;
+}        
+div.sm-offer {
+    padding-top: 20px;
+}
+input.sm-device {
+    width: 200!important;
+}
+div.video {
+    padding-top: 50px;
+}
+h1.nelum-heading {
+    padding-bottom: 30px;
+}
+div.aside-content {
+    margin-top: -80;
+    margin-bottom: -160;
+}
+div.jumbotron {
+    background-size: 100% 100%!important;
+}
+  }
+  @media only screen and (min-width: 600px) {
+    @keyframes welcome {
+        5% {visibility: visible;
+            background-color: rgba(0, 0, 0, 0.74);
+            height: auto;
+            width: 100%;
+            height: 10%;
+            margin-bottom: 5%;
+            text-align: center;
+            font-size: 40;
+            color: whitesmoke;
+            font-family: cursive;
+            font-style: oblique;
+        }
+     50% {
+        visibility: visible;
+        background-color: rgba(0, 0, 0, 0.74);
+        height: auto;
+        width: 100%;
+        height: 10%;
+        margin-bottom: 8%;
+        color: whitesmoke;
+        text-align: center;
+        margin-top: 40%;
+        font-size: 40;
+        font-family: cursive;
+        font-style: oblique;
+     }
+     100% {
+        visibility: visible;
+        background-color: rgba(0, 0, 0, 0.74);
+        height: auto;
+        width: 100%;
+        height: 10%;
+        margin-bottom: 8%;
+        color: whitesmoke;
+        text-align: center;
+        margin-top: 40%;
+        font-size: 40;
+        font-family: cursive;
+        font-style: oblique;
+     }      
+    }    
+    @keyframes service-1 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+    }
+    @keyframes service-one {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+    }
+    @keyframes service-2 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+    }
+    @keyframes service-two {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+    }
+    @keyframes service-3 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+    }
+    @keyframes service-three {
+
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+    }
+    @keyframes service-4 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+    }
+    @keyframes service-four {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+    }
+    @keyframes service-5 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+    }
+    @keyframes service-five {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+    }
+    @keyframes service-6 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+    }
+    @keyframes service-six {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+    }
+    @keyframes service-7 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+    }
+    @keyframes service-seven {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+    }
+    @keyframes service-8 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+    }
+    @keyframes service-eight {
+        50% {
+            visibility: visible;
+            width: 100%;
+            height: 159!important;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 159!important;
+        }
+    }
+    div.services-animation {
+        height: 641.5;
+    }
+    body.background {
+        background-size: 100%;
+        background-position: center;
+    }
+div.event-heading {
+    margin-top: 60px;
+    margin-left: 90px;
+}
+div.content-last-aside {
+    margin-top: -12px!important;
+    margin-bottom: -65px;
+}
+h1.nelum-heading {
+    padding-bottom: 20px;
+}
+p.nelum-para {
+    margin-top: -50;
+}
+div.aside-content {
+    margin-top: -20;
+    margin-bottom: -160;
+}
+div.jumbotron {
+ background-size: 100% 120%!important;   
+}
+  }
+  @media only screen and (min-width: 780px) {
+    @keyframes welcome {
+        5% {visibility: visible;
+            background-color: rgba(0, 0, 0, 0.74);
+            height: auto;
+            width: 100%;
+            height: 10%;
+            margin-bottom: 10%;
+            text-align: center;
+            font-size: 50;
+            color: whitesmoke;
+            font-family: cursive;
+            font-style: oblique;
+        }
+     50% {
+        visibility: visible;
+        background-color: rgba(0, 0, 0, 0.74);
+        height: auto;
+        width: 100%;
+        height: 10%;
+        margin-bottom: 15%;
+        color: whitesmoke;
+        text-align: center;
+        margin-top: 40%;
+        font-size: 50;
+        font-family: cursive;
+        font-style: oblique;
+     }
+     100% {
+        visibility: visible;
+        background-color: rgba(0, 0, 0, 0.74);
+        height: auto;
+        width: 100%;
+        height: 10%;
+        margin-bottom: 15%;
+        color: whitesmoke;
+        text-align: center;
+        margin-top: 40%;
+        font-size: 50;
+        font-family: cursive;
+        font-style: oblique;
+     }      
+    }    
+    @keyframes service-1 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 235;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 235;
+        }
+    }
+    @keyframes service-one {
+        50% {
+            visibility: visible;
+            width: 76.8%;
+            height: 236;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 236;
+        }
+    }
+    @keyframes service-2 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 235;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 235;
+        }
+    }
+    @keyframes service-two {
+        50% {
+            visibility: visible;
+            width: 76.8%;
+            height: 236;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 236;
+        }
+    }
+    @keyframes service-3 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 235;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 235;
+        }
+    }
+    @keyframes service-three {
+
+        50% {
+            visibility: visible;
+            width: 76.8%;
+            height: 236;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 236;
+        }
+    }
+    @keyframes service-4 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 235;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 235;
+        }
+    }
+    @keyframes service-four {
+        50% {
+            visibility: visible;
+            width: 76.8%;
+            height: 236;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 236;
+        }
+    }
+    @keyframes service-5 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 235;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 235;
+        }
+    }
+    @keyframes service-five {
+        50% {
+            visibility: visible;
+            width: 76.8%;
+            height: 236;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 236;
+        }
+    }
+    @keyframes service-6 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 235;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 235;
+        }
+    }
+    @keyframes service-six {
+        50% {
+            visibility: visible;
+            width: 76.8%;
+            height: 236;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 236;
+        }
+    }
+    @keyframes service-7 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 235;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 235;
+        }
+    }
+    @keyframes service-seven {
+        50% {
+            visibility: visible;
+            width: 76.8%;
+            height: 236;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 236;
+        }
+    }
+    @keyframes service-8 {
+        50% {
+            visibility: hidden;
+            width: 0;
+            height: 235;
+        }
+        100% {
+            visibility: visible;
+            width: 100%;
+            height: 235;
+        }
+    }
+    @keyframes service-eight {
+        50% {
+            visibility: visible;
+            width: 76.8%;
+            height: 236;
+        }
+        100% {
+            visibility: hidden;
+            width: 0;
+            height: 236;
+        }
+    }
+    div.services-animation {
+        height: 741.5;
+    }
+body.background {
+    background-size: 100% 40%;
+    background-position: center;
+}
+div.event-heading h1{
+padding-bottom: 100px!important;
+font-size: 55!important;
+} 
+div.button {
+    margin-top: -50;
+}
+div.video h1 {
+    margin-top: -60px!important;
+    font-size: 50!important;
+}
+div.video img {
+    height: 340px!important; padding-bottom: 50px!important;
+}
+div.content-last-aside {
+    margin-top: -7px!important;
+    margin-bottom: -73px;
+}
+div.footer-last i{
+    text-align: right;
+}
+figcaption {
+    margin-left: -60;
+}
+img.img-service {
+    width: 50%;
+    margin-left: 50px;
+}
+figcaption.img-service {
+    width: 50%;
+    margin-left: 50px;
+}
+img.for-customers {
+    width: 50%;
+    margin-left: 80px;
+}
+      }
+div.nav {
+    background-color: black;
+    box-sizing: border-box;
+}
+ul{
+    display: inline;
+    text-align: end;
+    justify-content: end;
+    color: white;
+}
+li {
+    margin-right: 30px;
+}
+li.mail {
+    display: inline;
+    border-right: solid 2px;
+    padding-right: 20px;
+}
+li.contact {
+    width: 200px;
+    
+    display: inline;
+}
+div.jumbotron {
+    background-image: url("test4.jpg");
+    background-size: 100%;
+
+}
+div.services {
+    height: auto;
+    -ms-transform: skewY(3deg); /* IE 9 */
+    transform: skewY(3deg);
+}
+  div.services-child {
+    -ms-transform: skewY(-3deg); /* IE 9 */
+    transform: skewY(-3deg);
+}
+div.content-last {
+    height: auto;
+    -ms-transform: skewY(3deg); /* IE 9 */
+    transform: skewY(3deg);
+}
+div.content-last-child {
+    -ms-transform: skewY(-3deg); /* IE 9 */
+    transform: skewY(-3deg);
+}
+div.content-last-aside {
+    height: auto;
+    -ms-transform: skewY(3deg); /* IE 9 */
+    transform: skewY(3deg);
+}
+div.aside-content {
+    height: auto;
+    -ms-transform: skewY(-3deg); /* IE 9 */
+    transform: skewY(-3deg);
+}
+div.welcome{
+    animation-name: welcome;
+    animation-duration: 5s;
+    animation-delay: 3s;
+    animation-iteration-count: 1;
+}
+img.service-1 {
+    animation-name: service-1;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-one {
+    animation-name: service-one;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-2 {
+    animation-name: service-2;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-two {
+    animation-name: service-two;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-3 {
+    animation-name: service-3;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-three {
+    animation-name: service-three;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-4 {
+    animation-name: service-4;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-four {
+    animation-name: service-one;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-5 {
+    animation-name: service-5;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-five {
+    animation-name: service-one;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-6 {
+    animation-name: service-6;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-six {
+    animation-name: service-six;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-7 {
+    animation-name: service-7;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-seven {
+    animation-name: service-seven;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-8 {
+    animation-name: service-8;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+img.service-eight {
+    animation-name: service-eight;
+    animation-duration: 10s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@media only screen and (max-width: 300px) {
+div.container-fluid div.jumbotron {
+    width: 100%!important;
+}
+figcaption {
+    font-size: 10;
+}
+h1.my-class {
+    font-size: 30;
+}
+h3 {
+    font-size: 18!important;
+    font-weight: bolder;
+}
+p.cls {
+    font-size: 15!important;
+}
+h2 {
+    font-size: 25!important;
+    font-weight: bolder;
+}
+i.email {
+    font-size: 12!important;
+}
+div.services-animation {
+    height: 80%;
+}
+}
